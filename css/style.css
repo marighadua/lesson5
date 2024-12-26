@@ -1,0 +1,60 @@
+.container {
+    width: 1336px;
+    background-color:lightgray ;
+    margin: 0 auto ;
+
+ }
+ .text-block {
+    text-align: center;
+    width: 760px;
+    margin: o auto;
+
+ }
+ .box {
+    width: 310px;
+    height: 430px;
+    border: 1px solid #000;
+
+ }
+ .row1
+ {
+    display: flex;
+    justify-content: space-between;
+
+ }
+ .row2 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 48px;
+
+ }
+ .class1 {
+    font-size: 18px;
+    color: #282828;
+    font-family: "Roboto", serif;
+  font-weight: 500;
+  font-style: normal;
+
+ } 
+ .class2 {
+    font-size: 14px;
+    color:#3E3E59;
+    
+    
+    font-family: "Roboto", serif;
+    font-weight: 400;
+    font-style: normal;
+ }
+ .class3 {
+    font-size: 14px;
+    color: #5F6980;
+    font-family: "Roboto", serif;
+    font-weight: 400;
+    font-style: normal;
+
+ }
+ .class01 {
+    size: 54px;
+    color: #282828;
+
+ }
